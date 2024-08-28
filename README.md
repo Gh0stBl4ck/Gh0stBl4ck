@@ -18,7 +18,7 @@
 ><br>
 >📚 Currently studying in:
 >
-><li title="University São Judas tadeu">USTJ</li>    
+><li title="University São Judas tadeu">USTJ - Universade São Judas tadeu</li>    
 ><br>
 ><br>
 >🔍 A proactive person, always willing to learn and practice new technologies, also working on some projects to practice and improve even more.
@@ -43,9 +43,9 @@
 <p>For now these are all the technologies i know/use:</p>
 <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stBl4ck&layout=compact&langs_counts=16&theme=transparent"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,styledcomponents,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,py,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=mysql,py,visualstudio,vscode,github,git)](https://skillicons.dev)
 <!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
 <br>
 </details>
@@ -68,7 +68,7 @@
   </summary>
         <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
-          <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
+          <a href="https://github.com/Gh0stBl4ck/github-readme-streak-stats">
             <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
           </a>
         </p>
