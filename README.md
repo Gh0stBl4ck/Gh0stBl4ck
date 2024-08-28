@@ -69,8 +69,8 @@
   </summary>
         <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
-          <a href="https://github.com/Gh0stBl4ck/github-readme-streak-stats">
-            <img  height="230em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gh0stBl4ck)]>
+            <a href="https://github.com/Gh0stBl4ck/github-readme-streak-stats">
+            <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=Gh0stBl4ck&show_icons=true&theme=transparent" alt="Guilherme Lins GitHub stats">
           </a>
         </p>
 </details>
