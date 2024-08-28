@@ -13,19 +13,17 @@
 ><img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> From Brazil - São Paulo.
 ><br>
 ><br>
->💌 I speak Portuguese, English and Spanish. So we can chat in any of these languages!
+>💌 I speak Portuguese, English, Spanish and French. So we can chat in any of these languages!
 ><br>
 ><br>
 >📚 Currently studying in:
 >
-><li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
-><li title="Technology and study platform from Brazil">Rocketseat</li>  
+><li title="University São Judas tadeu">USTJ</li>    
 ><br>
 ><br>
->🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
+>🔍 A proactive person, always willing to learn and practice new technologies, also working on some projects to practice and improve even more.
 ><br>
 ><br>
->​🤝​ Have several experience developing with co-workers. I believe that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: <a href="https://github.com/LucasLoopsT/TeamWork/tree/main" target="_blank">TeamWork Folder</a>
 ><br>
 ><br>
 >💫 Enjoy to do creative things and don't stay doing the same, challenging goals to exercise my mind is what i like.
@@ -57,10 +55,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=5C2D91)&nbsp;
-![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp&logoColor=792e82)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=7bb73e)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=66dbfb)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=ffeb3b)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fc5f1c)&nbsp;-->
 
