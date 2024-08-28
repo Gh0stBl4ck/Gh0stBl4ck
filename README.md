@@ -70,7 +70,7 @@
         <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
           <a href="https://github.com/Gh0stBl4ck/github-readme-streak-stats">
-            <img  height="230em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gh0stBl4ck)](https://github.com/Gh0stBl4ck/github-readme-stats)">
+            <img  height="230em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gh0stBl4ck)]>
           </a>
         </p>
 </details>
@@ -82,7 +82,7 @@
   
 You can find me here:
   
-<a href="mailto:guilhermelins.br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%cc4336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href=(mailto:guilhermelins.br@gmail.com)><img src="https://img.shields.io/badge/-Gmail-%cc4336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 <a href="https://www.linkedin.com/in/guilherme-lins-ab2a1a259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
