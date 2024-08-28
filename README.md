@@ -18,7 +18,8 @@
 ><br>
 >📚 Currently studying in:
 >
-><li title="University São Judas tadeu">USTJ - Universade São Judas tadeu</li>    
+><li title="University São Judas tadeu">USTJ - Universade São Judas tadeu</li>
+><li title="DIO">DIO</li>
 ><br>
 ><br>
 >🔍 A proactive person, always willing to learn and practice new technologies, also working on some projects to practice and improve even more.
@@ -69,7 +70,7 @@
         <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
           <a href="https://github.com/Gh0stBl4ck/github-readme-streak-stats">
-            <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
+            <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Guilherme Lins GitHub stats">
           </a>
         </p>
 </details>
@@ -81,9 +82,9 @@
   
 You can find me here:
   
-<a href="mailto:lucasllopes100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%cc4336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:guilhermelins.br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%cc4336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<a href="https://www.linkedin.com/in/lucas-lopes-781b39263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/guilherme-lins-ab2a1a259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=footer"/>
