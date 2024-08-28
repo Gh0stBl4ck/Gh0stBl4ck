@@ -41,7 +41,7 @@
 
   </summary>
 <p>For now these are all the technologies i know/use:</p>
-<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
+<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stBl4ck&layout=compact&langs_counts=16&theme=transparent"/>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,styledcomponents,nodejs,express)](https://skillicons.dev)
 
