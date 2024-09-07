@@ -7,7 +7,7 @@
 
 ## 💬 About me
 >
->⭐ I'm a Web Developer in constant learning, coding is one of my favorite things ever. 
+>⭐ I'm a Full-Stack Developer in constant learning, coding is one of my favorite things ever. 
 ><br>
 ><br>
 ><img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> From Brazil - São Paulo.
