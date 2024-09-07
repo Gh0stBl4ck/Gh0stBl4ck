@@ -84,9 +84,16 @@
   
 You can find me here:
   
-<a href=(mailto:guilhermelins.br@gmail.com)><img src="https://img.shields.io/badge/-Gmail-%cc4336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-<a href="https://www.linkedin.com/in/guilherme-lins-ab2a1a259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqccNKmRZpCVJBdzLVcrdtXvTLHfcDVmVjnhTWrwsxzzlxFJwJtwLmTkBNtQsGzxKJwDB" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-lins-ab2a1a259/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+
     
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=footer"/>
